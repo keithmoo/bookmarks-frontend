@@ -26,3 +26,4 @@ class BookmarkList extends Component {
 }
 
 export default BookmarkList;
+

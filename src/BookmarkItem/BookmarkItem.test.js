@@ -7,3 +7,4 @@ it('renders without crashing', () => {
   ReactDOM.render(<BookmarkItem />, div);
   ReactDOM.unmountComponentAtNode(div);
 });
+
